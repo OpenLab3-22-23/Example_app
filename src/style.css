@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.search-container {
+  width: 400px;
+  height: fit-content;
+  padding: 32px;
+}
+
+.results-container {
+  width: 90%;
+  height: fit-content;
+  padding: 32px 0 32px 0;
+}
+
+img {
+  width: auto;
+  height: 200px;
+  display: inline;
+  padding: 8px;
+}
